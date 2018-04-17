@@ -6,6 +6,7 @@ JSDF downloader
 
 ```
 $ go get github.com/PuerkitoBio/goquery
+$ go get github.com/setomits/jsdf-nippo
 $ go install github.com/setomits/jsdf-nippo
 $ jsdf-nippo
 ```
